@@ -1,0 +1,48 @@
+generated: '2026-09-22'
+method: derived
+generator: derive-mcp-candidate.py
+source:
+- openapi/_ae-authored/rss-app-openapi-generated.yml
+status: candidate
+deployment:
+  mode: none
+  auth: unknown
+  verified: probed
+note: No MCP server was found. The pre-flight posted tools/list to /mcp on api.rss.app, rss.app, help.rss.app; verdict absent. Candidate tools
+  below are derived from the 7 operation(s) in the provider's own OpenAPI (7 listed); they describe what a server WOULD expose, not one that exists.
+tools:
+- name: delete_v1_bundles_bundle_id
+  operationId: delete_v1_bundles_bundleId
+  method: DELETE
+  path: /v1/bundles/{bundleId}
+  description: Delete Bundle
+- name: delete_v1_bundles_bundle_id_feeds_feed_id
+  operationId: delete_v1_bundles_bundleId_feeds_feedId
+  method: DELETE
+  path: /v1/bundles/{bundleId}/feeds/{feedId}
+  description: Delete Feed
+- name: patch_v1_feed
+  operationId: patch_v1_feed
+  method: PATCH
+  path: /v1/feed
+  description: Update Feed
+- name: get_v1_v1id
+  operationId: get_v1_v1id
+  method: GET
+  path: /v1/{v1id}
+  description: List All Bundles
+- name: post_v1_v1id
+  operationId: post_v1_v1id
+  method: POST
+  path: /v1/{v1id}
+  description: Create Bundle
+- name: delete_v1_v1id_id
+  operationId: delete_v1_v1id_id
+  method: DELETE
+  path: /v1/{v1id}/{id}
+  description: Delete Feed
+- name: get_v1_v1id_id
+  operationId: get_v1_v1id_id
+  method: GET
+  path: /v1/{v1id}/{id}
+  description: Retrieve Feed

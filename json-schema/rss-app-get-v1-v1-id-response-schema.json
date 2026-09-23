@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/rss-app/main/json-schema/rss-app-get-v1-v1-id-response-schema.json",
+  "title": "GetV1V1IdResponse",
+  "x-generated": "2026-09-22",
+  "x-method": "derived",
+  "x-generator": "derive-json-schema.py",
+  "x-source": "openapi/_ae-authored/rss-app-openapi-generated.yml#/components/schemas/GetV1V1IdResponse",
+  "type": "object",
+  "properties": {
+    "total": {
+      "type": "number",
+      "description": "Total number of bundles."
+    },
+    "offset": {
+      "type": "number",
+      "description": "Offset used in the request."
+    },
+    "limit": {
+      "type": "number",
+      "description": "Limit used in the request."
+    },
+    "data": {
+      "type": "array",
+      "description": "Array of bundle objects."
+    }
+  }
+}

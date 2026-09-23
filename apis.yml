@@ -1,23 +1,125 @@
 aid: rss-app
+
 name: RSS.app
-description: 'RSS.app is a company surfaced via the API Evangelist harvest backlog (source: news) and
-  added to the network as a stub for full-pipeline profiling.'
+
+image: https://rss.app/static/img/images/rss-app.png
+
+description: RSS.app provides a no‑code platform that lets users generate RSS feeds from any website or social media source, create embeddable
+  widgets, and automate content distribution via bots to Discord, Slack, Telegram, and email. It offers a suite of tools for monitoring brands,
+  competitors, and news, with customizable widgets, news walls, and alerts, targeting marketers, developers, and businesses seeking automated
+  content streams without writing code.
+
 url: https://raw.githubusercontent.com/api-evangelist/rss-app/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:news
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-09-22 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-09-22'
+
 modified: '2026-09-22'
+
 tags:
 - Company
-apis: []
+- RSS
+- No-code
+- Automation
+- Content
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: Plans
+  url: plans/rss-app-plans-pricing.yml
+- type: Spectral
+  url: rules/rss-app-rules.yml
+- type: JSONLD
+  url: json-ld/rss-app-context.jsonld
+- type: Vocabulary
+  url: vocabulary/rss-app-vocabulary.yml
+- type: DataModel
+  url: data-model/rss-app-data-model.yml
+- type: Conformance
+  url: conformance/rss-app-conformance.yml
+- type: LLMsTxt
+  url: llms/rss-app-llms.txt
+- type: SecurityTxt
+  url: well-known/rss-app-help-security.txt
+- type: WellKnown
+  url: well-known/rss-app-well-known.yml
+- type: Hosts
+  url: hosts/rss-app-hosts.yml
+- type: Vendors
+  url: vendors/rss-app-vendors.yml
+- type: Security
+  url: https://rss.app/discover/security
+- type: Newsroom
+  url: https://rss.app/rss-feed/categories/news
+- type: GettingStarted
+  url: https://help.rss.app/en/articles/11124064-how-to-use-rss-app-your-quick-start-guide
+- type: Documentation
+  url: https://help.rss.app/
+- type: DeveloperPortal
+  url: https://api.rss.app</code
+- type: DomainSecurity
+  url: security/rss-app-domain-security.yml
 - type: Website
   url: https://rss.app/
+- type: Pricing
+  url: https://rss.app/pricing
+- type: Blog
+  url: https://rss.app/blog
+- type: TermsOfService
+  url: https://rss.app/terms
+- type: PrivacyPolicy
+  url: https://rss.app/privacy
+- type: SignUp
+  url: https://rss.app/signup
+
+apis:
+- aid: rss-app:rss-app-api
+  name: RSS.app API
+  description: 'RSS.app API as documented publicly: 7 operations. Contract generated from the documentation by API Evangelist (2026-09-22); not
+    the provider''s own document.'
+  humanURL: https://rss.app/docs/api
+  baseURL: https://api.rss.app
+  properties:
+  - type: OpenAPI
+    url: openapi/_ae-authored/rss-app-openapi-generated.yml
+    x-provenance: generated
+  - type: JSONSchema
+    url: json-schema/rss-app-get-v1-v1-id-response-schema.json
+  - type: JSONSchema
+    url: json-schema/rss-app-get-v1-v1-id-id-response-schema.json
+  - type: JSONSchema
+    url: json-schema/rss-app-patch-v1-feed-response-schema.json
+  - type: JSONSchema
+    url: json-schema/rss-app-post-v1-v1-id-response-schema.json
+  - type: JSONSchema
+    url: json-schema/rss-app-patch-v1-feed-request-schema.json
+  - type: JSONSchema
+    url: json-schema/rss-app-post-v1-v1-id-request-schema.json
+
+x-coverage:
+  state: unreadable
+  reason: js-rendered-docs
+  detail: API documentation at https://rss.app/docs/api returns HTML rendered by JavaScript, preventing machine‑readable extraction.
+  evidence:
+  - url: https://rss.app/docs/api
+    status: 200
+  checked: 2026-09-22
+x-enrichment:
+  date: '2026-09-22'
+  status: enriched
+  artifacts_added: 21
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local

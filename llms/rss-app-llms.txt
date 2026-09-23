@@ -1,0 +1,431 @@
+# RSS.app Help Center
+
+> How can we help you?
+
+## Getting Started
+
+- [What is RSS.app?](https://help.rss.app/en/articles/10729478-what-is-rss-app.md): Understand what you can do with RSS.app
+- [What is an RSS feed?](https://help.rss.app/en/articles/10655597-what-is-an-rss-feed.md): Learn what RSS feeds are and how they work
+- [FAQ](https://help.rss.app/en/articles/8822740-faq.md): List of frequently asked questions about RSS.app
+- [How to follow websites that don’t have RSS Feeds](https://help.rss.app/en/articles/8891494-how-to-follow-websites-that-don-t-have-rss-feeds.md): Learn how to create RSS feeds
+- [How to use RSS.app: your quick start guide](https://help.rss.app/en/articles/11124064-how-to-use-rss-app-your-quick-start-guide.md): Learn how to navigate the RSS.app interface
+- [Getting started with RSS feeds](https://help.rss.app/en/articles/8742459-getting-started-with-rss-feeds.md): Comprehensive guide for beginners on using RSS.app
+- [How to view RSS feeds](https://help.rss.app/en/articles/11137240-how-to-view-rss-feeds.md): Learn how to view RSS feeds in a user-friendly interface
+- [The ultimate list of popular RSS feeds to follow](https://help.rss.app/en/articles/8882009-the-ultimate-list-of-popular-rss-feeds-to-follow.md)
+- [Discover popular RSS Feeds with Explore](https://help.rss.app/en/articles/11186638-discover-popular-rss-feeds-with-explore.md): Learn how to create RSS feeds from trending topics
+- [Tips](https://help.rss.app/en/articles/10301393-tips.md): Find out different ways to use RSS.app
+
+## RSS Generator & Builder
+
+- [Generator and Builder FAQ](https://help.rss.app/en/articles/10522151-generator-and-builder-faq.md)
+- [How to get RSS feeds from websites](https://help.rss.app/en/articles/8881993-how-to-get-rss-feeds-from-websites.md): Learn how to find and generate RSS feeds
+- [How to replace RSS feeds](https://help.rss.app/en/articles/10627530-how-to-replace-rss-feeds.md): Learn how to swap out source URLS
+- [Native RSS feeds](https://help.rss.app/en/articles/10070024-native-rss-feeds.md): Learn what Native and non-Native RSS feeds are, and why our free plan supports only Native RSS feeds
+- [How to find and use Native RSS feeds](https://help.rss.app/en/articles/11137060-how-to-find-and-use-native-rss-feeds.md): Learn how to use RSSFinder.app
+- [How to validate RSS feeds](https://help.rss.app/en/articles/8891238-how-to-validate-rss-feeds.md): Learn how to ensure your RSS feed is structured correctly
+- [How to detect RSS feeds on webpages](https://help.rss.app/en/articles/11139054-how-to-detect-rss-feeds-on-webpages.md): Learn how to use the RSS Feed URL Finder Chrome Extension
+- [How to use the RSS Generator](https://help.rss.app/en/articles/10373146-how-to-use-the-rss-generator.md): Learn how to generate RSS feeds
+- [How to create topic RSS feeds](https://help.rss.app/en/articles/11088119-how-to-create-topic-rss-feeds.md): Learn how to generate RSS feeds based on specific topics and regions
+- [How to create a Native RSS feed with images](https://help.rss.app/en/articles/11173057-how-to-create-a-native-rss-feed-with-images.md): Learn how to enhance your Native RSS feed
+- [How to create an RSS Feed from a URL](https://help.rss.app/en/articles/11173172-how-to-create-an-rss-feed-from-a-url.md): Learn how to convert URLs to RSS
+- [How to generate RSS Feeds in bulk](https://help.rss.app/en/articles/11769313-how-to-generate-rss-feeds-in-bulk.md): Learn how to bulk generate RSS feeds using a CSV file
+- [How to create RSS feeds from blogs](https://help.rss.app/en/articles/14289046-how-to-create-rss-feeds-from-blogs.md)
+- [How to create RSS feeds from Instagram](https://help.rss.app/en/articles/11036382-how-to-create-rss-feeds-from-instagram.md): Learn how to generate RSS Feeds from Instagram profiles
+- [How to create RSS Feeds from X \(formerly Twitter\)](https://help.rss.app/en/articles/10628517-how-to-create-rss-feeds-from-x-formerly-twitter.md): Learn how to generate RSS Feeds from X user feeds, lists, and searches
+- [How to create RSS feeds from TikTok](https://help.rss.app/en/articles/8891118-how-to-create-rss-feeds-from-tiktok.md): Learn how to generate RSS feeds from TikTok user profiles, hashtags, and searches
+- [How to create RSS feeds from Bluesky](https://help.rss.app/en/articles/11060639-how-to-create-rss-feeds-from-bluesky.md): Learn how to generate RSS Feeds from Bluesky profiles and hashtags
+- [How to create RSS feeds from Rumble](https://help.rss.app/en/articles/8891030-how-to-create-rss-feeds-from-rumble.md): Learn how to use our Rumble RSS Generator
+- [How to create RSS feeds from LinkedIn](https://help.rss.app/en/articles/10656832-how-to-create-rss-feeds-from-linkedin.md): Learn how to generate RSS Feeds from LinkedIn.com
+- [How to create RSS feeds from Telegram](https://help.rss.app/en/articles/11060974-how-to-create-rss-feeds-from-telegram.md): Learn how to generate RSS feeds from Telegram profiles or channels
+- [How to create RSS feeds from Medium](https://help.rss.app/en/articles/11061756-how-to-create-rss-feeds-from-medium.md): Learn how to generate RSS feeds from Medium profiles, topics, and publications
+- [How to create RSS feeds from Youtube](https://help.rss.app/en/articles/11061809-how-to-create-rss-feeds-from-youtube.md): Learn how to generate RSS feeds from Youtube.com channels, search results, or playlist
+- [How to create RSS feeds from Pinterest](https://help.rss.app/en/articles/11087599-how-to-create-rss-feeds-from-pinterest.md): Learn how to generate RSS feeds from Pinterest boards and profiles
+- [How to create RSS feeds from Reddit](https://help.rss.app/en/articles/11087696-how-to-create-rss-feeds-from-reddit.md): Learn how to generate RSS Feeds from Reddit subreddits and search results
+- [How to create RSS feeds from Reddit subreddits](https://help.rss.app/en/articles/11164111-how-to-create-rss-feeds-from-reddit-subreddits.md): Learn how to generate RSS Feeds from Reddit subreddits
+- [How to create RSS feeds from Facebook](https://help.rss.app/en/articles/11095832-how-to-create-rss-feeds-from-facebook.md): Learn how to generate RSS Feeds from Facebook pages or groups
+- [How to create RSS feeds from Reddit searches](https://help.rss.app/en/articles/11164137-how-to-create-rss-feeds-from-reddit-searches.md): Learn how to generate RSS Feeds from Reddit search results
+- [How to monitor LinkedIn company pages automatically](https://help.rss.app/en/articles/13379466-how-to-monitor-linkedin-company-pages-automatically.md)
+- [How create RSS feeds from newsletters](https://help.rss.app/en/articles/10807214-how-create-rss-feeds-from-newsletters.md): Learn how to convert newsletters into RSS feeds
+- [How to create RSS feeds from Google News](https://help.rss.app/en/articles/10638795-how-to-create-rss-feeds-from-google-news.md): Learn how to use our Google News Generator
+- [How to create RSS feeds from the New York Times](https://help.rss.app/en/articles/11061666-how-to-create-rss-feeds-from-the-new-york-times.md): Learn how to generate RSS feeds from NY Times sections and subsections
+- [How to create RSS feeds from CNN](https://help.rss.app/en/articles/11061715-how-to-create-rss-feeds-from-cnn.md): Learn how to generate RSS feeds from CNN sections
+- [How to create RSS feeds from USA Today](https://help.rss.app/en/articles/11061742-how-to-create-rss-feeds-from-usa-today.md): Learn how to generate RSS feeds from USA Today sections
+- [How to create RSS feeds from news websites](https://help.rss.app/en/articles/11173582-how-to-create-rss-feeds-from-news-websites.md): Learn how to generate RSS feeds from news outlets and sections
+- [How to create RSS feeds from The Atlantic](https://help.rss.app/en/articles/11487602-how-to-create-rss-feeds-from-the-atlantic.md): Learn how to generate RSS feeds from theatlantic.com sections
+- [How to create RSS feeds from Washington Post](https://help.rss.app/en/articles/11951851-how-to-create-rss-feeds-from-washington-post.md): Learn how to generate RSS feeds from washingtonpost.com sections
+- [How to create sports RSS feeds](https://help.rss.app/en/articles/14021837-how-to-create-sports-rss-feeds.md)
+- [How to use RSS.app as a Google News RSS API](https://help.rss.app/en/articles/15539841-how-to-use-rss-app-as-a-google-news-rss-api.md): Google News API Alternative: Create Google News RSS Feeds with RSS.app
+- [How to find a Google News RSS feed URL](https://help.rss.app/en/articles/15540988-how-to-find-a-google-news-rss-feed-url.md): How to get a Google News RSS feed link
+- [How to turn Google Alerts into an RSS feed](https://help.rss.app/en/articles/15543028-how-to-turn-google-alerts-into-an-rss-feed.md): How to create a Google News alert and use it in RSS.app
+- [How to create a Google News RSS feed with images](https://help.rss.app/en/articles/15544513-how-to-create-a-google-news-rss-feed-with-images.md): How to add images to a Google News RSS feed
+- [How to use RSS Builder](https://help.rss.app/en/articles/10587094-how-to-use-rss-builder.md): Learn how to create custom RSS feeds.
+- [How to manually create an RSS feed](https://help.rss.app/en/articles/11173222-how-to-manually-create-an-rss-feed.md): Learn how to select content for a custom RSS feed
+
+## Customizing Your Feeds
+
+- [Guide to Refresh Rate](https://help.rss.app/en/articles/11100642-guide-to-refresh-rate.md): Understand how Refresh Rate works
+- [Guide to Edit](https://help.rss.app/en/articles/10769518-guide-to-edit.md): Learn how to configure basic feed settings
+- [Guide to expanded Feed Settings](https://help.rss.app/en/articles/10769740-guide-to-expanded-feed-settings.md): Learn about ⋮ \(More Options\) in Settings
+- [Guide to Feed Output](https://help.rss.app/en/articles/10769849-guide-to-feed-output.md): Learn how to customize the appearance of your feed
+- [Guide to Global Settings](https://help.rss.app/en/articles/10775112-guide-to-global-settings.md): Learn how to configure settings that apply across all feeds
+- [Guide to Bundles](https://help.rss.app/en/articles/10627664-guide-to-bundles.md): Learn how to combine multiple RSS feeds into one
+- [Guide to Collections](https://help.rss.app/en/articles/10275890-guide-to-collections.md): How to create a custom feed with your favorite posts
+- [Guide to Curate](https://help.rss.app/en/articles/10807665-guide-to-curate.md): Learn how to curate content
+- [Guide to Moderation](https://help.rss.app/en/articles/12011423-guide-to-moderation.md): Learn how to control which posts appear in your feed
+- [How to convert a Bundle to a feed](https://help.rss.app/en/articles/12011508-how-to-convert-a-bundle-to-a-feed.md): Learn how to convert Bundles in expanded Feed Settings
+- [How to assign and edit Bundle colors](https://help.rss.app/en/articles/12986170-how-to-assign-and-edit-bundle-colors.md)
+- [Guide to UTM tags](https://help.rss.app/en/articles/12110134-guide-to-utm-tags.md): How to set UTM tags for accounts, feeds, and bundles
+- [Guide to Affiliate Tags](https://help.rss.app/en/articles/12118908-guide-to-affiliate-tags.md): How to set affiliate tags for accounts and feeds
+- [Filters FAQ](https://help.rss.app/en/articles/10547298-filters-faq.md)
+- [How to filter RSS feeds](https://help.rss.app/en/articles/10271103-how-to-filter-rss-feeds.md): How to customize the items shown in your RSS feed
+- [How to use Regular Expression \(Regex\) to filter RSS feeds](https://help.rss.app/en/articles/10261034-how-to-use-regular-expression-regex-to-filter-rss-feeds.md): Learn what Regex filters are and how to use them in RSS.app
+- [How to force show posts hidden by filters](https://help.rss.app/en/articles/13225522-how-to-force-show-posts-hidden-by-filters.md): Learn how to override filters for specific posts
+- [How to inherit filters from individual feeds in Bundles](https://help.rss.app/en/articles/13674053-how-to-inherit-filters-from-individual-feeds-in-bundles.md): Learn how to use the Lock option in Filters
+- [How to translate your RSS feeds](https://help.rss.app/en/articles/8887346-how-to-translate-your-rss-feeds.md): Learn how to use our Translation feature
+- [How to filter RSS feeds by keyword](https://help.rss.app/en/articles/11155653-how-to-filter-rss-feeds-by-keyword.md): Learn how to use the Whitelist and Blacklist filters
+- [How to remove unwanted posts from RSS feeds](https://help.rss.app/en/articles/11178171-how-to-remove-unwanted-posts-from-rss-feeds.md): Learn how filter out content from your RSS feed
+- [How to remove titles from RSS feeds](https://help.rss.app/en/articles/11178436-how-to-remove-titles-from-rss-feeds.md): Learn how to use Feed Output to remove titles
+- [How to remove descriptions from RSS feeds](https://help.rss.app/en/articles/12473512-how-to-remove-descriptions-from-rss-feeds.md): Learn how to use Feed Output to remove descriptions
+- [How to adjust timestamps in RSS feeds](https://help.rss.app/en/articles/12650539-how-to-adjust-timestamps-in-rss-feeds.md): Learn how to use Feed Output to adjust timestamps
+- [How to remove images from RSS feeds](https://help.rss.app/en/articles/11178373-how-to-remove-images-from-rss-feeds.md): Learn how to use Feed Output to remove images
+- [How to remove videos from RSS feeds](https://help.rss.app/en/articles/11426362-how-to-remove-videos-from-rss-feeds.md): Learn how to use Feed Output to remove videos
+- [How to add custom text to RSS feeds](https://help.rss.app/en/articles/11178494-how-to-add-custom-text-to-rss-feeds.md): Learn how to use Replace or Remove text filter to edit posts
+- [How to replace text in RSS feeds](https://help.rss.app/en/articles/11178672-how-to-replace-text-in-rss-feeds.md): Learn how to use the Replace or Remove text filter to edit posts
+- [How to remove text from your RSS feed](https://help.rss.app/en/articles/12010318-how-to-remove-text-from-your-rss-feed.md): Learn how to use the Remove text filter to edit posts
+- [How to change RSS feed title and description](https://help.rss.app/en/articles/11179190-how-to-change-rss-feed-title-and-description.md): Learn how to modify RSS feed title, description, and icon
+- [How to remove old posts from RSS feed](https://help.rss.app/en/articles/11179230-how-to-remove-old-posts-from-rss-feed.md): Learn how to automatically remove expired posts from your RSS feed
+- [How to add fallback images to RSS feeds](https://help.rss.app/en/articles/12580226-how-to-add-fallback-images-to-rss-feeds.md): How to turn on fallback images in Feed Output
+- [How to clear RSS feed cache](https://help.rss.app/en/articles/11179437-how-to-clear-rss-feed-cache.md): Learn how to clear cache in expanded Settings
+- [How to partially replace URLs in RSS feeds](https://help.rss.app/en/articles/11509729-how-to-partially-replace-urls-in-rss-feeds.md): Learn how to use Advances rules to replace URL substrings
+- [How to hide posts based on Regex rules](https://help.rss.app/en/articles/11518166-how-to-hide-posts-based-on-regex-rules.md): Learn how to filter out content based on Regex rules
+- [How to add a Read More link to your RSS feed](https://help.rss.app/en/articles/11532874-how-to-add-a-read-more-link-to-your-rss-feed.md): Learn how to navigate Feed Output to add a Read More link
+- [How to filter Native RSS feeds by category](https://help.rss.app/en/articles/11642203-how-to-filter-native-rss-feeds-by-category.md): Learn how to include or exclude posts from Native RSS feeds by category
+- [How to limit posts in your RSS feed](https://help.rss.app/en/articles/11940907-how-to-limit-posts-in-your-rss-feed.md): Learn how to use Feed Output to limit posts
+- [How to limit posts in a Bundle](https://help.rss.app/en/articles/11942706-how-to-limit-posts-in-a-bundle.md): Learn how to use Bundle Output to limit posts
+- [How to change the author name in your RSS Feed](https://help.rss.app/en/articles/12003065-how-to-change-the-author-name-in-your-rss-feed.md): Learn how to modify author names in Edit
+- [How to remove duplicate posts from RSS feeds](https://help.rss.app/en/articles/12020545-how-to-remove-duplicate-posts-from-rss-feeds.md): Learn how to filter out duplicates in Filters
+- [How to resize images in RSS feeds](https://help.rss.app/en/articles/12020841-how-to-resize-images-in-rss-feeds.md): Learn how set image width and height in expanded Feed Settings
+- [How to change text casing in RSS feeds](https://help.rss.app/en/articles/12036226-how-to-change-text-casing-in-rss-feeds.md): Learn how to make titles uppercase or lowercase in Filters
+- [How to pull full Tweets from X/Twitter](https://help.rss.app/en/articles/12098244-how-to-pull-full-tweets-from-x-twitter.md): Learn how to enable full Tweets in Feed Settings
+- [How to exclude posts by author](https://help.rss.app/en/articles/12985824-how-to-exclude-posts-by-author.md): Learn how to remove posts by author
+- [How to replace URLs in RSS feeds](https://help.rss.app/en/articles/13335678-how-to-replace-urls-in-rss-feeds.md): Learn how to use Advances rules to replace links
+- [How to remove thumbnail images from RSS feeds](https://help.rss.app/en/articles/15191776-how-to-remove-thumbnail-images-from-rss-feeds.md): Learn how to use Feed Output to remove thumbnails
+
+## Web Widgets
+
+- [Widgets FAQ](https://help.rss.app/en/articles/10522874-widgets-faq.md)
+- [How to use and embed Widgets](https://help.rss.app/en/articles/10210638-how-to-use-and-embed-widgets.md): Learn what Widgets are and how to integrate them
+- [How to create RSS widgets with audio \(Podcasts\)](https://help.rss.app/en/articles/10859315-how-to-create-rss-widgets-with-audio-podcasts.md): Learn how to embed widgets with audio into your website
+- [Guide to RSS Widget Security](https://help.rss.app/en/articles/11179678-guide-to-rss-widget-security.md): Learn how to restrict which sites can display your Widget
+- [Guide to Widget Analytics](https://help.rss.app/en/articles/11186051-guide-to-widget-analytics.md): Learn how to track Widget performance
+- [Guide to Widget usage](https://help.rss.app/en/articles/11713214-guide-to-widget-usage.md): Learn how to track your widget usage and understand how it's counted
+- [How to customize the News Wall widget](https://help.rss.app/en/articles/10669437-how-to-customize-the-news-wall-widget.md): Learn how to personalize your News Wall widget
+- [How to customize the Ticker widget](https://help.rss.app/en/articles/10843109-how-to-customize-the-ticker-widget.md): Learn how to personalize your Ticker Widget
+- [How to customize the Carousel widget](https://help.rss.app/en/articles/10842453-how-to-customize-the-carousel-widget.md): Learn how to personalize your Carousel widget
+- [How to customize the Imageboard widget](https://help.rss.app/en/articles/11029936-how-to-customize-the-imageboard-widget.md): Learn how to personalize your Imageboard widget
+- [How to customize the Magazine widget](https://help.rss.app/en/articles/10856347-how-to-customize-the-magazine-widget.md): Learn how to personalize your Magazine widget
+- [How to customize the Feed widget](https://help.rss.app/en/articles/10857563-how-to-customize-the-feed-widget.md): Learn how to personalize your Feed widget
+- [How to customize the List widget](https://help.rss.app/en/articles/10840387-how-to-customize-the-list-widget.md): Learn how to personalize your List widget
+- [How to add custom CSS to RSS widgets](https://help.rss.app/en/articles/11185938-how-to-add-custom-css-to-rss-widgets.md): Learn how to find the Custom CSS field in Customize
+- [How to upload custom fonts to your widget](https://help.rss.app/en/articles/11869617-how-to-upload-custom-fonts-to-your-widget.md): Learn how to upload Google Fonts
+- [How to add a "Read More" link to Widgets](https://help.rss.app/en/articles/12167672-how-to-add-a-read-more-link-to-widgets.md): Learn how enable a "Read more" link in Customize
+- [Guide to Pinned posts](https://help.rss.app/en/articles/12305297-guide-to-pinned-posts.md): Learn how to pin and customize posts
+- [How to adapt your RSS widget to different screen sizes](https://help.rss.app/en/articles/12918490-how-to-adapt-your-rss-widget-to-different-screen-sizes.md)
+- [How to add a fallback image to widgets](https://help.rss.app/en/articles/13355301-how-to-add-a-fallback-image-to-widgets.md)
+- [How to add an Instagram Widget to your website](https://help.rss.app/en/articles/11099788-how-to-add-an-instagram-widget-to-your-website.md)
+- [How to add an X \(Twitter\) Widget to your website](https://help.rss.app/en/articles/11099872-how-to-add-an-x-twitter-widget-to-your-website.md)
+- [How to add a Youtube Widget to your website](https://help.rss.app/en/articles/11100051-how-to-add-a-youtube-widget-to-your-website.md)
+- [How to add a Facebook Widget to your website](https://help.rss.app/en/articles/11100314-how-to-add-a-facebook-widget-to-your-website.md)
+- [How to add a Reddit Widget to your website](https://help.rss.app/en/articles/11100534-how-to-add-a-reddit-widget-to-your-website.md)
+- [How to add a LinkedIn Widget to your website](https://help.rss.app/en/articles/13376776-how-to-add-a-linkedin-widget-to-your-website.md)
+- [Top 5 Google News Widgets to Add to Your Website](https://help.rss.app/en/articles/8891497-top-5-google-news-widgets-to-add-to-your-website.md)
+- [Add a News Ticker to Your Website](https://help.rss.app/en/articles/8891259-add-a-news-ticker-to-your-website.md)
+- [Add Cryptocurrency News to Your Website](https://help.rss.app/en/articles/8891265-add-cryptocurrency-news-to-your-website.md)
+- [How to add a Google News Widget to your website](https://help.rss.app/en/articles/11164691-how-to-add-a-google-news-widget-to-your-website.md)
+
+## Bots & Alerts
+
+- [Discord Bot FAQ](https://help.rss.app/en/articles/10523225-discord-bot-faq.md)
+- [How to add RSS feeds to Discord](https://help.rss.app/en/articles/8779043-how-to-add-rss-feeds-to-discord.md): Learn how to create an RSS feed and send updates to a Discord channel automatically using RSS.app’s Discord bot
+- [How to use Discord mentions](https://help.rss.app/en/articles/9388961-how-to-use-discord-mentions.md): Learn how to add mentions to your Discord notifications
+- [How to add Discord bot to multiple servers](https://help.rss.app/en/articles/9311525-how-to-add-discord-bot-to-multiple-servers.md): Learn how to send RSS post to multiple Discord servers
+- [How to customize Discord Alerts](https://help.rss.app/en/articles/11321872-how-to-customize-discord-alerts.md): Learn how to configure posts sent to your Discord
+- [How to add mentions to Discord posts](https://help.rss.app/en/articles/11603070-how-to-add-mentions-to-discord-posts.md): Learn how to include mentions in posts sent to your Discord
+- [How to ignore posts in Discord](https://help.rss.app/en/articles/11604735-how-to-ignore-posts-in-discord.md): Learn how to set conditions to ignore posts
+- [Telegram Bot FAQ](https://help.rss.app/en/articles/10546889-telegram-bot-faq.md)
+- [How to add RSS feeds to Telegram](https://help.rss.app/en/articles/8880712-how-to-add-rss-feeds-to-telegram.md): Learn how to post RSS feed updates on Telegram channels and groups
+- [How add RSS feeds to Telegram topics](https://help.rss.app/en/articles/11065375-how-add-rss-feeds-to-telegram-topics.md): Learn how to post RSS feed updates to Telegram supergroups and topics
+- [How to add RSS feeds to Telegram DMs](https://help.rss.app/en/articles/11070491-how-to-add-rss-feeds-to-telegram-dms.md): Learn how to get RSS feed updates in your Telegram inbox
+- [How to customize Telegram Alerts](https://help.rss.app/en/articles/11070598-how-to-customize-telegram-alerts.md): Learn how to configure posts sent to your Telegram
+- [Slack Bot FAQ](https://help.rss.app/en/articles/10547414-slack-bot-faq.md)
+- [How to add RSS feeds to Slack channels](https://help.rss.app/en/articles/8944962-how-to-add-rss-feeds-to-slack-channels.md): Learn how to add RSS feeds to Slack
+- [How to customize Slack Alerts](https://help.rss.app/en/articles/11321736-how-to-customize-slack-alerts.md): Learn how to configure posts sent to your Slack
+- [How to add RSS feeds to a Slack channel using channel ID](https://help.rss.app/en/articles/12044462-how-to-add-rss-feeds-to-a-slack-channel-using-channel-id.md): Learn how to send Alerts to your Slack using the channel ID or link
+- [How to send RSS updates to email](https://help.rss.app/en/articles/10638898-how-to-send-rss-updates-to-email.md): Learn how to automatically send new RSS content to email
+
+## AI Brief
+
+- [Guide to AI Brief](https://help.rss.app/en/articles/14488592-guide-to-ai-brief.md): Learn how to generate summaries for RSS feeds with AI
+- [Guide to AI Credits](https://help.rss.app/en/articles/14691648-guide-to-ai-credits.md): Learn how AI usage is calculated
+- [How to generate your first AI Brief](https://help.rss.app/en/articles/14691682-how-to-generate-your-first-ai-brief.md): Learn how to enable and customize AI Briefs
+- [How to generate AI summaries for RSS automatically](https://help.rss.app/en/articles/14692230-how-to-generate-ai-summaries-for-rss-automatically.md): Guide to AI Brief Schedule
+- [How to add AI Briefs to your website](https://help.rss.app/en/articles/15264029-how-to-add-ai-briefs-to-your-website.md)
+- [How to add article links to AI Briefs](https://help.rss.app/en/articles/15363474-how-to-add-article-links-to-ai-briefs.md): Learn how to include links to the source in your AI Briefs
+- [How to automatically receive AI summaries in your inbox](https://help.rss.app/en/articles/14743013-how-to-automatically-receive-ai-summaries-in-your-inbox.md): Learn how to create an automated executive news digest with AI and RSS
+- [How to create an automated newsletter with AI](https://help.rss.app/en/articles/14743143-how-to-create-an-automated-newsletter-with-ai.md): Learn how to build a "self-writing" newsletter with RSS and AI
+- [How to monitor social media conversations and trends with AI](https://help.rss.app/en/articles/15214589-how-to-monitor-social-media-conversations-and-trends-with-ai.md)
+- [How to create Google News RSS article summaries and analysis](https://help.rss.app/en/articles/15539562-how-to-create-google-news-rss-article-summaries-and-analysis.md)
+- [How to get daily news briefs in Discord with AI](https://help.rss.app/en/articles/14826918-how-to-get-daily-news-briefs-in-discord-with-ai.md)
+- [How to get daily news briefs in Telegram with AI](https://help.rss.app/en/articles/14827087-how-to-get-daily-news-briefs-in-telegram-with-ai.md)
+- [How to get daily news briefs in Slack with AI](https://help.rss.app/en/articles/14827611-how-to-get-daily-news-briefs-in-slack-with-ai.md)
+- [How to get daily news briefs in your email with AI](https://help.rss.app/en/articles/14827770-how-to-get-daily-news-briefs-in-your-email-with-ai.md)
+
+## App Integrations
+
+- [How to analyze website data with AI](https://help.rss.app/en/articles/14742645-how-to-analyze-website-data-with-ai.md): Learn how to export websites as CSV for ChatGPT and Gemini analysis
+- [How to add RSS feeds to Squarespace](https://help.rss.app/en/articles/10629085-how-to-add-rss-feeds-to-squarespace.md): Learn how to embed RSS widgets into Squarespace
+- [How to add RSS feeds to Wix](https://help.rss.app/en/articles/8863381-how-to-add-rss-feeds-to-wix.md): How to embed RSS widgets into Wix
+- [How to add RSS feeds to Shopify](https://help.rss.app/en/articles/8891583-how-to-add-rss-feeds-to-shopify.md): Learn how to embed RSS widgets into Shopify websites
+- [How to embed RSS Widgets into Weebly websites](https://help.rss.app/en/articles/8891587-how-to-embed-rss-widgets-into-weebly-websites.md): Learn how to add RSS Widgets to Weembly
+- [How to add RSS feeds to GoDaddy](https://help.rss.app/en/articles/10922271-how-to-add-rss-feeds-to-godaddy.md): Learn how to embed RSS widgets into GoDaddy
+- [How to add RSS feeds to Wordpress](https://help.rss.app/en/articles/8890841-how-to-add-rss-feeds-to-wordpress.md): How to embed RSS widgets into Wordpress
+- [How to add an X / Twitter widget to Wordpress](https://help.rss.app/en/articles/11146023-how-to-add-an-x-twitter-widget-to-wordpress.md): Learn how to embed an X / Twitter widget into your Wordpress site
+- [How to add an Instagram widget to Wordpress](https://help.rss.app/en/articles/11146008-how-to-add-an-instagram-widget-to-wordpress.md): Learn how to embed an Instagram widget to your Wordpress site
+- [How to add RSS feeds to Yodeck](https://help.rss.app/en/articles/14644053-how-to-add-rss-feeds-to-yodeck.md)
+- [How to add RSS feeds to ScreenCloud](https://help.rss.app/en/articles/14644863-how-to-add-rss-feeds-to-screencloud.md)
+- [How to use RSS feeds with Make.com](https://help.rss.app/en/articles/9844433-how-to-use-rss-feeds-with-make-com.md): Set up automation workflows inside Make.com and RSS.app
+- [How to integrate RSS feeds with Make.com and X \(formerly Twitter\)](https://help.rss.app/en/articles/10617828-how-to-integrate-rss-feeds-with-make-com-and-x-formerly-twitter.md): Learn how to automate RSS feed posts to X \(formerly Twitter\)
+- [How to import RSS feeds into Google Sheets with Make.com](https://help.rss.app/en/articles/11478314-how-to-import-rss-feeds-into-google-sheets-with-make-com.md): Learn how to automate RSS feed posts to Google Sheets
+- [How to connect an RSS Feed to a Make.com webhook](https://help.rss.app/en/articles/11478502-how-to-connect-an-rss-feed-to-a-make-com-webhook.md): Learn how to automate RSS feed posts to a webhook
+- [How to summarize RSS feed items with AI via Make.com](https://help.rss.app/en/articles/11525308-how-to-summarize-rss-feed-items-with-ai-via-make-com.md): Learn how to automate RSS feed posts to ChatGPT
+- [How to automate RSS feed posts to Instagram via Make.com](https://help.rss.app/en/articles/12675872-how-to-automate-rss-feed-posts-to-instagram-via-make-com.md): Learn how to integrate RSS feeds with Instagram and Make.com
+- [How to automate RSS feed posts to Pinterest via Make.com](https://help.rss.app/en/articles/12976250-how-to-automate-rss-feed-posts-to-pinterest-via-make-com.md): Learn how to integrate RSS feeds with Pinterest and Make.com
+- [How to auto-post Instagram updates to X \(Twitter\) via Make.com](https://help.rss.app/en/articles/13230581-how-to-auto-post-instagram-updates-to-x-twitter-via-make-com.md): Learn how to integrate Instagram, X \(Twitter\), and Make.com
+- [How to create an RSS Feed from Google Sheets using Zapier](https://help.rss.app/en/articles/10618181-how-to-create-an-rss-feed-from-google-sheets-using-zapier.md): Create a live RSS feed from your Google Sheets data
+- [How to import RSS feeds into Google Sheets with Zapier](https://help.rss.app/en/articles/11931127-how-to-import-rss-feeds-into-google-sheets-with-zapier.md): Learn how to automate RSS feed posts to Google Sheets
+- [How to summarize RSS feed items with AI via Zapier](https://help.rss.app/en/articles/13046370-how-to-summarize-rss-feed-items-with-ai-via-zapier.md): Learn how to automate RSS feed posts to ChatGPT
+- [How to add RSS feeds to n8n](https://help.rss.app/en/articles/11434018-how-to-add-rss-feeds-to-n8n.md): Learn how integrate RSS feeds with n8n
+- [How to automatically add RSS feed items to Google Sheets with n8n](https://help.rss.app/en/articles/12589611-how-to-automatically-add-rss-feed-items-to-google-sheets-with-n8n.md): Learn how integrate RSS feeds and Google Sheets with n8n
+- [How to summarize or analyze articles automatically with ChatGPT via n8n](https://help.rss.app/en/articles/12608299-how-to-summarize-or-analyze-articles-automatically-with-chatgpt-via-n8n.md): Learn how to integrate RSS.app with ChatGPT and n8n
+- [How to automatically post RSS feed updates to Twitter \(X\) with n8n](https://help.rss.app/en/articles/12608933-how-to-automatically-post-rss-feed-updates-to-twitter-x-with-n8n.md): Learn how to automate RSS to Twitter \(X\)
+- [How to automatically create Tweets from website content with ChatGPT & n8n](https://help.rss.app/en/articles/12609040-how-to-automatically-create-tweets-from-website-content-with-chatgpt-n8n.md): Learn how to create content for Twitter \(X\) with AI
+- [How to automatically post RSS feed updates to Notion via n8n](https://help.rss.app/en/articles/12841728-how-to-automatically-post-rss-feed-updates-to-notion-via-n8n.md): Learn how to integrate RSS.app with Notion and n8n
+- [How to automatically add RSS feed updates to Airtable via n8n](https://help.rss.app/en/articles/12859313-how-to-automatically-add-rss-feed-updates-to-airtable-via-n8n.md): Learn how integrate RSS feeds and Airtable with n8n
+- [How to summarize RSS feed posts with AI in Airtable](https://help.rss.app/en/articles/12883507-how-to-summarize-rss-feed-posts-with-ai-in-airtable.md)
+- [How to send RSS feed data to Airtable via webhook](https://help.rss.app/en/articles/12883768-how-to-send-rss-feed-data-to-airtable-via-webhook.md)
+- [How to connect an RSS Feed to Clay](https://help.rss.app/en/articles/13001976-how-to-connect-an-rss-feed-to-clay.md): Learn how to integrate RSS feeds with Clay.com
+- [How to connect an RSS Feed to Clay via webhook](https://help.rss.app/en/articles/13002119-how-to-connect-an-rss-feed-to-clay-via-webhook.md): Learn how to integrate RSS.app with Clay.com via webhook
+- [How to integrate RSS feeds with IFTTT and X \(Twitter\)](https://help.rss.app/en/articles/10704879-how-to-integrate-rss-feeds-with-ifttt-and-x-twitter.md): Learn how to automate RSS feed posts to X \(formerly Twitter\)
+- [How to add RSS feeds to Notion](https://help.rss.app/en/articles/8868310-how-to-add-rss-feeds-to-notion.md): Learn how embed RSS Widgets into Notion
+- [How to create a newsletter from RSS with Mailchimp](https://help.rss.app/en/articles/10944454-how-to-create-a-newsletter-from-rss-with-mailchimp.md): Learn how to automate RSS feed newsletters
+- [How to import RSS feeds directly into Google Sheets](https://help.rss.app/en/articles/11541888-how-to-import-rss-feeds-directly-into-google-sheets.md): Learn how to import RSS posts directly into Google Sheets as CSV
+
+## Troubleshooting
+
+- [Troubleshooting RSS feeds](https://help.rss.app/en/articles/10244325-troubleshooting-rss-feeds.md): Learn how to solve common feed problems
+- [Troubleshooting Alerts](https://help.rss.app/en/articles/11055380-troubleshooting-alerts.md): Learn how to solve common problems with Discord, Slack, and Telegram
+- [Troubleshooting Widgets](https://help.rss.app/en/articles/11055585-troubleshooting-widgets.md): Learn how to solve common Widget problems
+- [Troubleshooting API](https://help.rss.app/en/articles/11060064-troubleshooting-api.md): Learn how to solve common API problems
+- [How to whitelist RSS.app in Cloudflare](https://help.rss.app/en/articles/11680572-how-to-whitelist-rss-app-in-cloudflare.md)
+
+## Use Cases
+
+- [Top 10 Websites to Follow That Don’t Have RSS Feeds](https://help.rss.app/en/articles/8891491-top-10-websites-to-follow-that-don-t-have-rss-feeds.md)
+- [Translate Foreign News Feeds](https://help.rss.app/en/articles/10946762-translate-foreign-news-feeds.md)
+- [Use RSS Feeds to Power Digital Signage Displays](https://help.rss.app/en/articles/10945470-use-rss-feeds-to-power-digital-signage-displays.md)
+- [Build a Private Team Library or Archive](https://help.rss.app/en/articles/10965182-build-a-private-team-library-or-archive.md)
+- [Test Content Strategy Performance](https://help.rss.app/en/articles/10967228-test-content-strategy-performance.md)
+- [Build a Custom Feed for Your Internal Team Dashboard](https://help.rss.app/en/articles/10945167-build-a-custom-feed-for-your-internal-team-dashboard.md)
+- [How to Get Trustpilot Reviews in Slack](https://help.rss.app/en/articles/13463118-how-to-get-trustpilot-reviews-in-slack.md)
+- [Top 5 Cool HTML Widgets For Your Website](https://help.rss.app/en/articles/8891435-top-5-cool-html-widgets-for-your-website.md)
+- [Top 5 News Widgets for Your Website](https://help.rss.app/en/articles/8891562-top-5-news-widgets-for-your-website.md)
+- [Generate a “Buzz” Section on Landing Pages](https://help.rss.app/en/articles/10966525-generate-a-buzz-section-on-landing-pages.md)
+- [Showcase New Products or Partners on Your Website](https://help.rss.app/en/articles/10967512-showcase-new-products-or-partners-on-your-website.md)
+- [Showcase Product Reviews and Testimonials](https://help.rss.app/en/articles/10963998-showcase-product-reviews-and-testimonials.md)
+- [Automatically Display News Headlines on Your Website](https://help.rss.app/en/articles/10944953-automatically-display-news-headlines-on-your-website.md)
+- [Create a Custom Ticker with Curated Posts](https://help.rss.app/en/articles/11101133-create-a-custom-ticker-with-curated-posts.md)
+- [Automatically Display Sports News on Your Website](https://help.rss.app/en/articles/14021564-automatically-display-sports-news-on-your-website.md)
+- [Top Sports Websites to Create RSS Feeds From](https://help.rss.app/en/articles/8891581-top-sports-websites-to-create-rss-feeds-from.md)
+- [Track Government or Regulatory Announcements](https://help.rss.app/en/articles/10946272-track-government-or-regulatory-announcements.md)
+- [Monitor Product Launches or Price Drops](https://help.rss.app/en/articles/10963761-monitor-product-launches-or-price-drops.md)
+- [Get Real Estate Listings in Your Telegram](https://help.rss.app/en/articles/10945907-get-real-estate-listings-in-your-telegram.md)
+- [Monitor Job Boards or Classified Listings](https://help.rss.app/en/articles/10946753-monitor-job-boards-or-classified-listings.md)
+- [Schedule a Daily RSS Feed Summary](https://help.rss.app/en/articles/11186159-schedule-a-daily-rss-feed-summary.md)
+- [How to monitor real estate listings automatically](https://help.rss.app/en/articles/15960673-how-to-monitor-real-estate-listings-automatically.md): Learn how to create an RSS feed from real estate listings
+- [How to Get Emails or Newsletters in Slack](https://help.rss.app/en/articles/11088969-how-to-get-emails-or-newsletters-in-slack.md)
+- [How to Get Emails or Newsletters in Telegram](https://help.rss.app/en/articles/11089129-how-to-get-emails-or-newsletters-in-telegram.md)
+- [How to Get Emails or Newsletters in Discord](https://help.rss.app/en/articles/11089084-how-to-get-emails-or-newsletters-in-discord.md)
+- [How to Get Instagram Updates in Slack](https://help.rss.app/en/articles/11093867-how-to-get-instagram-updates-in-slack.md)
+- [How to Get Instagram Updates in Discord](https://help.rss.app/en/articles/11093896-how-to-get-instagram-updates-in-discord.md)
+- [How to Get Instagram Updates in Telegram](https://help.rss.app/en/articles/11093911-how-to-get-instagram-updates-in-telegram.md)
+- [How to Get Instagram Updates in Email](https://help.rss.app/en/articles/11093983-how-to-get-instagram-updates-in-email.md)
+- [How to Get X \(Twitter\) Updates in Slack](https://help.rss.app/en/articles/11094826-how-to-get-x-twitter-updates-in-slack.md)
+- [How to Get X \(Twitter\) Updates in Discord](https://help.rss.app/en/articles/11094876-how-to-get-x-twitter-updates-in-discord.md)
+- [How to Get X \(Twitter\) Updates in Telegram](https://help.rss.app/en/articles/11095139-how-to-get-x-twitter-updates-in-telegram.md)
+- [How to Get X \(Twitter\) Updates in Email](https://help.rss.app/en/articles/11095241-how-to-get-x-twitter-updates-in-email.md)
+- [How to Auto-Post and Play X \(Twitter\) Videos in Telegram](https://help.rss.app/en/articles/11321979-how-to-auto-post-and-play-x-twitter-videos-in-telegram.md)
+- [How to Auto-Post and Play X \(Twitter\) Videos in Discord](https://help.rss.app/en/articles/11322036-how-to-auto-post-and-play-x-twitter-videos-in-discord.md)
+- [How to forward X \(Twitter\) updates to a webhook](https://help.rss.app/en/articles/13334558-how-to-forward-x-twitter-updates-to-a-webhook.md): Learn how to automate X \(Twitter\) posts to a webhook
+- [How to Get Youtube Updates in Slack](https://help.rss.app/en/articles/11095613-how-to-get-youtube-updates-in-slack.md)
+- [How to Get Youtube Updates in Discord](https://help.rss.app/en/articles/11095681-how-to-get-youtube-updates-in-discord.md)
+- [How to Get Youtube Updates in Telegram](https://help.rss.app/en/articles/11095694-how-to-get-youtube-updates-in-telegram.md)
+- [How to Get Youtube Updates in Email](https://help.rss.app/en/articles/11095710-how-to-get-youtube-updates-in-email.md)
+- [How to Get Facebook Updates in Slack](https://help.rss.app/en/articles/11095789-how-to-get-facebook-updates-in-slack.md)
+- [How to Get Facebook Updates in Discord](https://help.rss.app/en/articles/11095842-how-to-get-facebook-updates-in-discord.md)
+- [How to Get Facebook Updates in Telegram](https://help.rss.app/en/articles/11095860-how-to-get-facebook-updates-in-telegram.md)
+- [How to Get Facebook Updates in Email](https://help.rss.app/en/articles/11095872-how-to-get-facebook-updates-in-email.md)
+- [How to Get Reddit Updates in Slack](https://help.rss.app/en/articles/11099482-how-to-get-reddit-updates-in-slack.md)
+- [How to Get Reddit Updates in Discord](https://help.rss.app/en/articles/11099508-how-to-get-reddit-updates-in-discord.md)
+- [How to Get Reddit Updates in Telegram](https://help.rss.app/en/articles/11099522-how-to-get-reddit-updates-in-telegram.md)
+- [How to Get Reddit Updates in Email](https://help.rss.app/en/articles/11099537-how-to-get-reddit-updates-in-email.md)
+- [How to Add a Telegram Channel to Slack](https://help.rss.app/en/articles/11099721-how-to-add-a-telegram-channel-to-slack.md)
+- [How to Add a Telegram Channel to Discord](https://help.rss.app/en/articles/10265471-how-to-add-a-telegram-channel-to-discord.md)
+- [How to Add a Telegram Channel to Email](https://help.rss.app/en/articles/11099762-how-to-add-a-telegram-channel-to-email.md)
+- [How to Get Google News Updates in Slack](https://help.rss.app/en/articles/11164760-how-to-get-google-news-updates-in-slack.md)
+- [How to Get Google News Updates in Discord](https://help.rss.app/en/articles/11164792-how-to-get-google-news-updates-in-discord.md)
+- [How to get Google News updates in Telegram](https://help.rss.app/en/articles/11164815-how-to-get-google-news-updates-in-telegram.md)
+- [How to Get Google News Updates in Email](https://help.rss.app/en/articles/11164839-how-to-get-google-news-updates-in-email.md)
+- [How to Get LinkedIn Updates in Slack](https://help.rss.app/en/articles/13369583-how-to-get-linkedin-updates-in-slack.md)
+- [How to Get LinkedIn Updates in Telegram](https://help.rss.app/en/articles/13369715-how-to-get-linkedin-updates-in-telegram.md)
+- [How to Get LinkedIn Updates in Discord](https://help.rss.app/en/articles/13369759-how-to-get-linkedin-updates-in-discord.md)
+- [How to Get LinkedIn Updates in Email](https://help.rss.app/en/articles/13369814-how-to-get-linkedin-updates-in-email.md)
+- [How to Get TikTok Updates in Slack](https://help.rss.app/en/articles/15166812-how-to-get-tiktok-updates-in-slack.md)
+- [How to Get TikTok Updates in Telegram](https://help.rss.app/en/articles/15166879-how-to-get-tiktok-updates-in-telegram.md)
+- [How to Get TikTok Updates in Discord](https://help.rss.app/en/articles/15166896-how-to-get-tiktok-updates-in-discord.md)
+- [How to Get TikTok Updates in Email](https://help.rss.app/en/articles/15166917-how-to-get-tiktok-updates-in-email.md)
+- [How Community Managers Can Use RSS.app](https://help.rss.app/en/articles/11325779-how-community-managers-can-use-rss-app.md)
+- [How to Set Up a Discord Bot That Posts News Automatically](https://help.rss.app/en/articles/11408067-how-to-set-up-a-discord-bot-that-posts-news-automatically.md)
+- [How to Automate Content Curation for Your Community](https://help.rss.app/en/articles/11408150-how-to-automate-content-curation-for-your-community.md)
+- [How to Track Social Media Updates](https://help.rss.app/en/articles/11408270-how-to-track-social-media-updates.md)
+- [How Traders Can Use RSS.app](https://help.rss.app/en/articles/11403710-how-traders-can-use-rss-app.md)
+- [How to Set Up a Reddit Stock Mention Tracker](https://help.rss.app/en/articles/11419278-how-to-set-up-a-reddit-stock-mention-tracker.md)
+- [How to Track Stock News Automatically](https://help.rss.app/en/articles/11419501-how-to-track-stock-news-automatically.md)
+- [How to Track Website Changes for Stocks, Filings, and Earnings](https://help.rss.app/en/articles/11420445-how-to-track-website-changes-for-stocks-filings-and-earnings.md)
+- [How Marketers Can Use RSS.app](https://help.rss.app/en/articles/11420570-how-marketers-can-use-rss-app.md)
+- [How to Automate Social Media Content Curation](https://help.rss.app/en/articles/11428024-how-to-automate-social-media-content-curation.md)
+- [How to Add an HTML News Widget to Your Website](https://help.rss.app/en/articles/11431681-how-to-add-an-html-news-widget-to-your-website.md)
+- [How to Monitor Your Competitors’ Content Strategy](https://help.rss.app/en/articles/11431817-how-to-monitor-your-competitors-content-strategy.md)
+
+## Video Tutorials
+
+- [Video: Getting Started with RSS.app \(Part 1\)](https://help.rss.app/en/articles/12326715-video-getting-started-with-rss-app-part-1.md)
+- [Video: Getting Started with RSS.app \(Part 2\)](https://help.rss.app/en/articles/12326717-video-getting-started-with-rss-app-part-2.md)
+- [Video: Getting Started with RSS.app \(Part 3\)](https://help.rss.app/en/articles/12640619-video-getting-started-with-rss-app-part-3.md)
+- [Video: Top 5 RSS Use Cases](https://help.rss.app/en/articles/10922729-video-top-5-rss-use-cases.md)
+- [Video: RSS Builder. The Secret Tool for Monitoring Any Website](https://help.rss.app/en/articles/11839040-video-rss-builder-the-secret-tool-for-monitoring-any-website.md)
+- [Video: Combine Multiple RSS Feeds into One RSS Feed](https://help.rss.app/en/articles/11839037-video-combine-multiple-rss-feeds-into-one-rss-feed.md)
+- [Video: Create Custom RSS Feed](https://help.rss.app/en/articles/10922721-video-create-custom-rss-feed.md)
+- [Video: How to Create a Custom RSS Feed](https://help.rss.app/en/articles/11839066-video-how-to-create-a-custom-rss-feed.md)
+- [Video: The Easiest Way to Filter and Modify RSS Feeds](https://help.rss.app/en/articles/11972287-video-the-easiest-way-to-filter-and-modify-rss-feeds.md)
+- [Video: What is RSS?](https://help.rss.app/en/articles/12010748-video-what-is-rss.md)
+- [Video: Create RSS Feeds from any Topic or Keyword](https://help.rss.app/en/articles/12010868-video-create-rss-feeds-from-any-topic-or-keyword.md)
+- [Video: Create RSS Feeds with the RSS Feed Generator](https://help.rss.app/en/articles/12021629-video-create-rss-feeds-with-the-rss-feed-generator.md)
+- [Video: Translate RSS Feeds](https://help.rss.app/en/articles/12270369-video-translate-rss-feeds.md)
+- [Video: Review & Approve RSS Feed Posts Before Publishing](https://help.rss.app/en/articles/14742780-video-review-approve-rss-feed-posts-before-publishing.md)
+- [Video: How to Manage RSS Feeds and Control What Gets Published](https://help.rss.app/en/articles/14742787-video-how-to-manage-rss-feeds-and-control-what-gets-published.md)
+- [Video: Get RSS Feed Updates By Email](https://help.rss.app/en/articles/15960825-video-get-rss-feed-updates-by-email.md)
+- [Video: Add RSS Feeds to Slack](https://help.rss.app/en/articles/12010755-video-add-rss-feeds-to-slack.md)
+- [Video: Build a Slack Channel That Spies on Your Competitors for You](https://help.rss.app/en/articles/11839053-video-build-a-slack-channel-that-spies-on-your-competitors-for-you.md)
+- [Video: Add an Instagram Bot to Your Slack Channel](https://help.rss.app/en/articles/12003304-video-add-an-instagram-bot-to-your-slack-channel.md)
+- [Video: Monitor & Auto-Post Youtube to Slack](https://help.rss.app/en/articles/12270357-video-monitor-auto-post-youtube-to-slack.md)
+- [Video: Send Newsletters and Emails to Slack](https://help.rss.app/en/articles/11656297-video-send-newsletters-and-emails-to-slack.md)
+- [Video: Track LinkedIn Updates in Slack](https://help.rss.app/en/articles/10922701-video-track-linkedin-updates-in-slack.md)
+- [Video: Stop Checking Email. Get Your Newsletters in Slack](https://help.rss.app/en/articles/11839089-video-stop-checking-email-get-your-newsletters-in-slack.md)
+- [Video: Send LinkedIn Updates to Slack Automatically \(Company Pages, Jobs & Newsletters\)](https://help.rss.app/en/articles/13392080-video-send-linkedin-updates-to-slack-automatically-company-pages-jobs-newsletters.md)
+- [Video: Set Up Actions and Mentions in Discord Alerts](https://help.rss.app/en/articles/12010819-video-set-up-actions-and-mentions-in-discord-alerts.md)
+- [Video: Add a News Bot to Discord](https://help.rss.app/en/articles/12010872-video-add-a-news-bot-to-discord.md)
+- [Video: Track Twitter \(X\) Updates in Discord](https://help.rss.app/en/articles/10922708-video-track-twitter-x-updates-in-discord.md)
+- [Video: Track YouTube Video Updates in Discord](https://help.rss.app/en/articles/10922693-video-track-youtube-video-updates-in-discord.md)
+- [Video: Send Posts from Telegram Channel to Discord](https://help.rss.app/en/articles/10922739-video-send-posts-from-telegram-channel-to-discord.md)
+- [Video: Add a Google News Bot to Your Discord Server](https://help.rss.app/en/articles/12110227-video-add-a-google-news-bot-to-your-discord-server.md)
+- [Video: Add a Reddit Bot to Your Discord Server](https://help.rss.app/en/articles/12703386-video-add-a-reddit-bot-to-your-discord-server.md)
+- [Video: Get Emails & Newsletters in Discord Automatically](https://help.rss.app/en/articles/13392015-video-get-emails-newsletters-in-discord-automatically.md)
+- [Video: Add RSS Feeds to Telegram](https://help.rss.app/en/articles/12010758-video-add-rss-feeds-to-telegram.md)
+- [Video: Add a Facebook Bot to Your Telegram](https://help.rss.app/en/articles/12640616-video-add-a-facebook-bot-to-your-telegram.md)
+- [Video: Add an Instagram Bot to Your Telegram](https://help.rss.app/en/articles/11941465-video-add-an-instagram-bot-to-your-telegram.md)
+- [Video: Get Twitter \(X\) Updates in Telegram](https://help.rss.app/en/articles/11601627-video-get-twitter-x-updates-in-telegram.md)
+- [Video: Add a Youtube Bot to Telegram Groups and Channels](https://help.rss.app/en/articles/12270340-video-add-a-youtube-bot-to-telegram-groups-and-channels.md)
+- [Video: Add a News Bot to Your Telegram Groups or Channels](https://help.rss.app/en/articles/12703369-video-add-a-news-bot-to-your-telegram-groups-or-channels.md)
+- [Video: Get Emails & Newsletters in Telegram Automatically](https://help.rss.app/en/articles/13392017-video-get-emails-newsletters-in-telegram-automatically.md)
+- [Video: Google News Alerts in Telegram \(No-Code Setup\)](https://help.rss.app/en/articles/15781912-video-google-news-alerts-in-telegram-no-code-setup.md)
+- [Video: Set Up an Email Digest](https://help.rss.app/en/articles/12010784-video-set-up-an-email-digest.md)
+- [Video: How to Build a Live CNN Tracker in 60 Seconds \(No Code\)](https://help.rss.app/en/articles/11839044-video-how-to-build-a-live-cnn-tracker-in-60-seconds-no-code.md)
+- [Video: The Simple Trick to Track Any Website with RSS](https://help.rss.app/en/articles/11839057-video-the-simple-trick-to-track-any-website-with-rss.md)
+- [Video: Monitor Competitors](https://help.rss.app/en/articles/10922713-video-monitor-competitors.md)
+- [Video: Create an RSS Feed from Reddit \(Subreddits & Search\)](https://help.rss.app/en/articles/12270366-video-create-an-rss-feed-from-reddit-subreddits-search.md)
+- [Video: Turn Google News Into an RSS Feed](https://help.rss.app/en/articles/11572492-video-turn-google-news-into-an-rss-feed.md)
+- [Video: Get LinkedIn Job Alerts in Slack, Discord, or Telegram via RSS](https://help.rss.app/en/articles/11656300-video-get-linkedin-job-alerts-in-slack-discord-or-telegram-via-rss.md)
+- [Video: Create RSS Feeds from Youtube](https://help.rss.app/en/articles/12640612-video-create-rss-feeds-from-youtube.md)
+- [Video: Auto-Post Website & Social Media Updates to Pinterest with Make.com](https://help.rss.app/en/articles/13391998-video-auto-post-website-social-media-updates-to-pinterest-with-make-com.md)
+- [Video: How to Create a Pinterest RSS Feed](https://help.rss.app/en/articles/13392002-video-how-to-create-a-pinterest-rss-feed.md)
+- [Video: Turn Instagram Profiles into RSS Feeds](https://help.rss.app/en/articles/13392038-video-turn-instagram-profiles-into-rss-feeds.md)
+- [Video: Turn Facebook Pages or Groups Into RSS Feeds \(No Code\)](https://help.rss.app/en/articles/13392065-video-turn-facebook-pages-or-groups-into-rss-feeds-no-code.md)
+- [Video: How to Turn Any Blog Into an RSS Feed](https://help.rss.app/en/articles/14742775-video-how-to-turn-any-blog-into-an-rss-feed.md)
+- [Video: Google Alerts Alternative. Track Any News Topic with RSS](https://help.rss.app/en/articles/15781915-video-google-alerts-alternative-track-any-news-topic-with-rss.md)
+- [Video: How to Track New Real Estate Listings Automatically with RSS](https://help.rss.app/en/articles/15960851-video-how-to-track-new-real-estate-listings-automatically-with-rss.md)
+- [Video: List Widget](https://help.rss.app/en/articles/12010735-video-list-widget.md)
+- [Video: News Wall widget](https://help.rss.app/en/articles/12010740-video-news-wall-widget.md)
+- [Video: Embed RSS Feeds](https://help.rss.app/en/articles/12010866-video-embed-rss-feeds.md)
+- [Video: Embed RSS Widgets in Wix, Squarespace, and WordPress](https://help.rss.app/en/articles/10922674-video-embed-rss-widgets-in-wix-squarespace-and-wordpress.md)
+- [Video: Add RSS Feed to Wix](https://help.rss.app/en/articles/12010858-video-add-rss-feed-to-wix.md)
+- [Video: Add RSS Feed to Wordpress](https://help.rss.app/en/articles/12010864-video-add-rss-feed-to-wordpress.md)
+- [Video: Add News & Social Media Widgets to Notion](https://help.rss.app/en/articles/12842357-video-add-news-social-media-widgets-to-notion.md)
+- [Video: Show Facebook Posts on Your Website Automatically](https://help.rss.app/en/articles/13392070-video-show-facebook-posts-on-your-website-automatically.md)
+- [Video: Get Sports News for Your Website or App Automatically](https://help.rss.app/en/articles/14049553-video-get-sports-news-for-your-website-or-app-automatically.md)
+- [Video: Turn Any News Website Into a Scrolling News Ticker](https://help.rss.app/en/articles/14742773-video-turn-any-news-website-into-a-scrolling-news-ticker.md)
+- [Video: Add News & Social Media Feeds to Digital Signage](https://help.rss.app/en/articles/14742789-video-add-news-social-media-feeds-to-digital-signage.md)
+- [Video: How to Embed a Google News Widget on Your Website](https://help.rss.app/en/articles/15781919-video-how-to-embed-a-google-news-widget-on-your-website.md)
+- [Video: Automatically Display Local News on Your Website with RSS](https://help.rss.app/en/articles/15781924-video-automatically-display-local-news-on-your-website-with-rss.md)
+- [Video: Send RSS Feed Updates to Airtable Automatically Using Webhooks](https://help.rss.app/en/articles/12921293-video-send-rss-feed-updates-to-airtable-automatically-using-webhooks.md)
+- [Video: Turn Any RSS Feed Into AI Summaries Automatically](https://help.rss.app/en/articles/12945942-video-turn-any-rss-feed-into-ai-summaries-automatically.md)
+- [Video: Turn Any Website into AI-Ready Data](https://help.rss.app/en/articles/14742797-video-turn-any-website-into-ai-ready-data.md)
+- [Video: Auto-Post Website Updates to Google Sheets via RSS.app & Zapier](https://help.rss.app/en/articles/11931196-video-auto-post-website-updates-to-google-sheets-via-rss-app-zapier.md)
+- [Video: Automate RSS Feeds Using n8n](https://help.rss.app/en/articles/12640608-video-automate-rss-feeds-using-n8n.md)
+- [Video: Automatically Post RSS Feed Items to X/Twitter with n8n](https://help.rss.app/en/articles/12640610-video-automatically-post-rss-feed-items-to-x-twitter-with-n8n.md)
+- [Video: Automate Article Summaries with RSS.app, n8n & ChatGPT](https://help.rss.app/en/articles/12703391-video-automate-article-summaries-with-rss-app-n8n-chatgpt.md)
+- [Video: Send RSS Feed Updates to Notion Automatically via n8n](https://help.rss.app/en/articles/12841890-video-send-rss-feed-updates-to-notion-automatically-via-n8n.md)
+- [Video: Send RSS Feed Updates to Airtable Automatically via n8n](https://help.rss.app/en/articles/12921300-video-send-rss-feed-updates-to-airtable-automatically-via-n8n.md)
+- [Video: Automatically Summarize Articles with AI \(RSS + Zapier + ChatGPT\)](https://help.rss.app/en/articles/13392013-video-automatically-summarize-articles-with-ai-rss-zapier-chatgpt.md)
+- [Video: Automatically Send Instagram Posts to X \(Twitter\)](https://help.rss.app/en/articles/13392060-video-automatically-send-instagram-posts-to-x-twitter.md)
+- [Video: Auto-Post Facebook Pages or Groups to X \(Twitter\) via n8n](https://help.rss.app/en/articles/13392067-video-auto-post-facebook-pages-or-groups-to-x-twitter-via-n8n.md)
+- [Video: Auto-Post to Instagram Using RSS Feeds via Make.com](https://help.rss.app/en/articles/12703373-video-auto-post-to-instagram-using-rss-feeds-via-make-com.md)
+- [How to automate RSS feed posts to Facebook via Make.com](https://help.rss.app/en/articles/12953827-how-to-automate-rss-feed-posts-to-facebook-via-make-com.md): Learn how to integrate RSS feeds with Facebook and Make.com
+- [How to connect RSS feeds to Facebook via a Make.com webhook](https://help.rss.app/en/articles/13002632-how-to-connect-rss-feeds-to-facebook-via-a-make-com-webhook.md): Learn how to integrate RSS.app, Make.com, and Facebook
+- [Video: Auto-Post Website & Social Media Updates to Facebook with Make.com Webhooks](https://help.rss.app/en/articles/13392008-video-auto-post-website-social-media-updates-to-facebook-with-make-com-webhooks.md)
+- [Video: AI to Discord](https://help.rss.app/en/articles/14826364-video-ai-to-discord.md)
+- [Video: How to Summarize RSS Feeds with AI](https://help.rss.app/en/articles/14742793-video-how-to-summarize-rss-feeds-with-ai.md)
+- [Video: Build a Self-Writing Newsletter with AI](https://help.rss.app/en/articles/15781873-video-build-a-self-writing-newsletter-with-ai.md)
+- [Video: Send Automatic News Briefs to Your Telegram with AI](https://help.rss.app/en/articles/15781882-video-send-automatic-news-briefs-to-your-telegram-with-ai.md)
+- [Video: Add AI Content Widget to Your Website](https://help.rss.app/en/articles/15781887-video-add-ai-content-widget-to-your-website.md)
+- [Video: Turn Industry News into Daily Slack Briefs with AI](https://help.rss.app/en/articles/15781890-video-turn-industry-news-into-daily-slack-briefs-with-ai.md)
+- [Video: Brand Monitoring Bot. Track Reddit, X, and Google News with AI](https://help.rss.app/en/articles/15781892-video-brand-monitoring-bot-track-reddit-x-and-google-news-with-ai.md)
+- [Video: AI Regulatory Alerts. Turn Policy Updates into Daily Briefs](https://help.rss.app/en/articles/15781897-video-ai-regulatory-alerts-turn-policy-updates-into-daily-briefs.md)
+- [Video: How to Summarize Google News with AI](https://help.rss.app/en/articles/15781905-video-how-to-summarize-google-news-with-ai.md)
+- [Video: How to Track Customer Reviews and Mentions with AI](https://help.rss.app/en/articles/15781922-video-how-to-track-customer-reviews-and-mentions-with-ai.md)
+- [Video: Build an AI Crypto News Tracker](https://help.rss.app/en/articles/15960843-video-build-an-ai-crypto-news-tracker.md)
+- [Video: How to Translate and Summarize Global News](https://help.rss.app/en/articles/15960847-video-how-to-translate-and-summarize-global-news.md)
+
+## Account & Billing
+
+- [My Account FAQ](https://help.rss.app/en/articles/10547439-my-account-faq.md)
+- [Sign in to RSS.app](https://help.rss.app/en/articles/11459370-sign-in-to-rss-app.md)
+- [Reset your password](https://help.rss.app/en/articles/11459382-reset-your-password.md)
+- [Change your password](https://help.rss.app/en/articles/11459385-change-your-password.md)
+- [Change your profile information](https://help.rss.app/en/articles/11459554-change-your-profile-information.md)
+- [Change your email address](https://help.rss.app/en/articles/11459394-change-your-email-address.md)
+- [Manage your RSS.app usage](https://help.rss.app/en/articles/11186852-manage-your-rss-app-usage.md)
+- [Unsubscribe from RSS.app email](https://help.rss.app/en/articles/11036035-unsubscribe-from-rss-app-email.md)
+- [Cancel your plan](https://help.rss.app/en/articles/11459530-cancel-your-plan.md)
+- [Delete your account](https://help.rss.app/en/articles/11459408-delete-your-account.md)
+- [Guide to Preferences](https://help.rss.app/en/articles/12985953-guide-to-preferences.md)
+- [How to enable Dark Mode](https://help.rss.app/en/articles/12986242-how-to-enable-dark-mode.md)
+- [Manage your RSS.app subscription](https://help.rss.app/en/articles/11464059-manage-your-rss-app-subscription.md)
+- [Manage your payment method](https://help.rss.app/en/articles/11464185-manage-your-payment-method.md)
+- [How to view and download invoices](https://help.rss.app/en/articles/11464167-how-to-view-and-download-invoices.md)
+- [Guide to pricing and feed limits](https://help.rss.app/en/articles/10657918-guide-to-pricing-and-feed-limits.md): Understand the limitations of your RSS.app plan
+- [Guide to the Free Plan](https://help.rss.app/en/articles/11164162-guide-to-the-free-plan.md): Understand the limitations of the free plan
+- [How to Import and Export feeds](https://help.rss.app/en/articles/10641828-how-to-import-and-export-feeds.md): Learn how to import/export CSV or OPML into RSS.app
+- [How to back up your RSS feeds](https://help.rss.app/en/articles/11179284-how-to-back-up-your-rss-feeds.md): Learn how to use Export to back up your account
+- [How to transfer RSS feeds](https://help.rss.app/en/articles/11179593-how-to-transfer-rss-feeds.md): Learn how to move RSS feeds between accounts
+- [API keys](https://help.rss.app/en/articles/9428390-api-keys.md): Learn how to generate API keys
+- [How to send RSS feed items to webhooks](https://help.rss.app/en/articles/10922911-how-to-send-rss-feed-items-to-webhooks.md): Guide to RSS.app Webhooks

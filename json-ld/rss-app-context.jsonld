@@ -1,0 +1,83 @@
+{
+  "@context": {
+    "@vocab": "https://rss.app/schema#",
+    "schema": "https://schema.org/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dcterms": "http://purl.org/dc/terms/",
+    "rss": "https://rss.app/schema#",
+    "PatchV1FeedRequest": "rss:PatchV1FeedRequest",
+    "title": {
+      "@id": "rss:title",
+      "@type": "xsd:string"
+    },
+    "description": {
+      "@id": "rss:description",
+      "@type": "xsd:string"
+    },
+    "icon": {
+      "@id": "rss:icon",
+      "@type": "xsd:string"
+    },
+    "PatchV1FeedResponse": "rss:PatchV1FeedResponse",
+    "id": {
+      "@id": "rss:id",
+      "@type": "xsd:string"
+    },
+    "source_url": {
+      "@id": "rss:source_url",
+      "@type": "xsd:string"
+    },
+    "rss_feed_url": {
+      "@id": "rss:rss_feed_url",
+      "@type": "xsd:string"
+    },
+    "is_active": {
+      "@id": "rss:is_active",
+      "@type": "xsd:boolean"
+    },
+    "GetV1V1IdResponse": "rss:GetV1V1IdResponse",
+    "total": {
+      "@id": "rss:total",
+      "@type": "xsd:decimal"
+    },
+    "offset": {
+      "@id": "rss:offset",
+      "@type": "xsd:decimal"
+    },
+    "limit": {
+      "@id": "rss:limit",
+      "@type": "xsd:decimal"
+    },
+    "data": {
+      "@id": "rss:data",
+      "@container": "@list"
+    },
+    "PostV1V1IdRequest": "rss:PostV1V1IdRequest",
+    "name": {
+      "@id": "rss:name",
+      "@type": "xsd:string"
+    },
+    "feeds": {
+      "@id": "rss:feeds",
+      "@container": "@list"
+    },
+    "PostV1V1IdResponse": "rss:PostV1V1IdResponse",
+    "items": {
+      "@id": "rss:items",
+      "@container": "@list"
+    },
+    "DeleteV1V1IdIdResponse": "rss:DeleteV1V1IdIdResponse",
+    "deleted": {
+      "@id": "rss:deleted",
+      "@type": "xsd:boolean"
+    },
+    "GetV1V1IdIdResponse": "rss:GetV1V1IdIdResponse"
+  },
+  "@type": "schema:Dataset",
+  "schema:name": "RSS.app API JSON-LD context",
+  "schema:description": "A JSON-LD @context for the objects RSS.app's own API contract declares: one class per component schema, one property per declared field, typed from the contract. Derived by script (derive-json-ld.py, 2026-09-22) from openapi/_ae-authored/rss-app-openapi-generated.yml.",
+  "dcterms:created": "2026-09-22",
+  "dcterms:source": [
+    "openapi/_ae-authored/rss-app-openapi-generated.yml"
+  ]
+}

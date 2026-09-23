@@ -1,0 +1,32 @@
+generated: '2026-09-22'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://rss.app/pricing
+sources:
+- https://rss.app/pricing
+- https://help.rss.app/en/articles/10657918-guide-to-pricing-and-feed-limits.md
+- https://help.rss.app/en/articles/11459530-cancel-your-plan.md
+- https://help.rss.app/en/articles/11164162-guide-to-the-free-plan.md
+name: RSS.app pricing
+audience: business-product
+pricing_basis: free
+plans:
+- name: Free
+  price_text: Free
+  description: Basic features with 2 native RSS feeds, 1 widget, 24‑hour refresh, up to 5 posts per feed.
+- name: Basic
+  price_text: $ 8 . 32 / month
+  price: 8.32
+  description: 15 feeds, 25 posts per feed, 60‑minute refresh, 4 widgets, 4 alerts per platform, 4 email digests, 2 webhooks, bundles, keywords,
+    etc.
+- name: Developer
+  price_text: $ 16 . 64 / month
+  price: 16.64
+  description: Everything in Basic plus 100 feeds, 50 posts per feed, 15‑minute refresh, 20 widgets, 20 alerts per platform, 20 email digests,
+    10 webhooks, 200 posts per collection, 50 keywords, feed translation, moderation, etc.
+- name: Pro
+  price_text: $ 83 . 32 / month
+  price: 83.32
+  description: Everything in Developer plus 500 feeds, 100 widgets, 100 alerts per platform, 100 email digests, 50 webhooks, 1000 posts per collection,
+    200 keywords, team collaboration, API access, etc.
+docs: https://rss.app/pricing

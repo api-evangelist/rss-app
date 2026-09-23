@@ -1,0 +1,36 @@
+generated: '2026-09-22'
+method: probed
+source: pre-flight dossier (docs platform, portal detections) + CNAME chains and response headers of the hosts apis.yml names
+registry: all/0-working/vendors.yml
+areas_vocabulary:
+- documentation
+- developer-portal
+- api-gateway
+- cdn
+- hosting
+- sdk-generation
+- api-collections
+- status-page
+- support
+- community
+- identity
+- mcp-hosting
+vendors:
+- vendor: cloudflare
+  name: Cloudflare
+  area: cdn
+  host: help.rss.app
+  evidence: header:cf-ray
+  signal: header
+  confidence: high
+  kin_score:
+  - https_enforced
+  - hsts
+checked:
+- 'docs-platform: no-docs-host'
+- help.rss.app (GettingStarted)
+- help.rss.app (Documentation)
+- api.rss.app< (DeveloperPortal)
+- rss.app (Website)
+- rss.app (SignUp)
+- api.rss.app (baseURL)

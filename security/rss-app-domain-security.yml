@@ -1,0 +1,16 @@
+generated: '2026-09-22'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: rss.app
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Dec  4 01:03:29 2026 GMT
+  hsts: false
+domains:
+- domain: rss.app
+  dnssec: true
+  caa: []
+  spf: true
+  dmarc: true
+  dmarc_policy: quarantine

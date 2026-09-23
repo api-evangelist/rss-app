@@ -1,0 +1,329 @@
+openapi: 3.1.0
+info:
+  title: RSS.app API
+  version: '2026-09-22'
+  description: 'GENERATED FROM DOCUMENTATION by API Evangelist on 2026-09-22: 7 operation(s) read from 8 public documentation page(s) (each operation
+    names its page in x-source). This is not the provider''s published contract; RSS.app has published no machine-readable contract that the pipeline
+    could find. Engine: local.'
+  x-evidence-tiers:
+    code-example: 0
+    documentation: 7
+    pages-with-code: 0
+    pages-read: 8
+  x-generated-from: documentation
+  x-provenance: generated
+  x-authored-by: API Evangelist
+  x-generated: '2026-09-22'
+  x-generator: generate-contract-from-docs.py
+  x-engine: local
+  x-sources:
+  - https://rss.app/docs/api
+  - https://rss.app/docs/api/webhooks
+  - https://rss.app/docs/api/authentication
+  - https://rss.app/docs/api/errors
+  - https://rss.app/docs/api/pagination
+  - https://rss.app/docs/api/feeds
+  - https://rss.app/docs/api/feeds/create-by-url
+  - https://rss.app/docs/api/feeds/create-by-keyword
+servers:
+- url: https://api.rss.app
+paths:
+  /v1/bundles/{bundleId}:
+    delete:
+      operationId: delete_v1_bundles_bundleId
+      tags:
+      - Bundles
+      summary: Delete Bundle
+      x-source: https://rss.app/docs/api
+      parameters:
+      - name: bundleId
+        in: path
+        required: true
+        schema:
+          type: string
+      responses:
+        '200':
+          description: Success (status as documented)
+      x-evidence:
+        kind: documentation
+  /v1/bundles/{bundleId}/feeds/{feedId}:
+    delete:
+      operationId: delete_v1_bundles_bundleId_feeds_feedId
+      tags:
+      - Bundles
+      summary: Delete Feed
+      x-source: https://rss.app/docs/api
+      parameters:
+      - name: bundleId
+        in: path
+        required: true
+        schema:
+          type: string
+      - name: feedId
+        in: path
+        required: true
+        schema:
+          type: string
+      responses:
+        '200':
+          description: Success (status as documented)
+      x-evidence:
+        kind: documentation
+  /v1/feed:
+    patch:
+      operationId: patch_v1_feed
+      tags:
+      - Feed
+      summary: Update Feed
+      x-source: https://rss.app/docs/api/feeds/create-by-keyword
+      requestBody:
+        required: false
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/PatchV1FeedRequest'
+      responses:
+        '200':
+          description: Success (status as documented)
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PatchV1FeedResponse'
+      x-evidence:
+        kind: documentation
+  /v1/{v1id}:
+    get:
+      operationId: get_v1_v1id
+      tags:
+      - Api
+      summary: List All Bundles
+      x-source: https://rss.app/docs/api
+      parameters:
+      - name: v1id
+        in: path
+        required: true
+        schema:
+          type: string
+      - name: limit
+        in: query
+        required: false
+        schema:
+          type: string
+        description: Maximum number of bundles to return (default 10).
+      - name: offset
+        in: query
+        required: false
+        schema:
+          type: string
+        description: Starting position for pagination (default 0).
+      responses:
+        '200':
+          description: Success (status as documented)
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GetV1V1IdResponse'
+      x-evidence:
+        kind: documentation
+        collapsed_from: 3 example path(s) differing only at v1Id
+    post:
+      operationId: post_v1_v1id
+      tags:
+      - Api
+      summary: Create Bundle
+      x-source: https://rss.app/docs/api
+      parameters:
+      - name: v1id
+        in: path
+        required: true
+        schema:
+          type: string
+      - name: name
+        in: query
+        required: true
+        schema:
+          type: string
+        description: Bundle name
+      - name: feeds
+        in: query
+        required: true
+        schema:
+          type: array
+        description: Array of feed IDs
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/PostV1V1IdRequest'
+      responses:
+        '201':
+          description: Success (status as documented)
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PostV1V1IdResponse'
+      x-evidence:
+        kind: documentation
+        collapsed_from: 3 example path(s) differing only at v1Id
+  /v1/{v1id}/{id}:
+    delete:
+      operationId: delete_v1_v1id_id
+      tags:
+      - Api
+      summary: Delete Feed
+      x-source: https://rss.app/docs/api
+      parameters:
+      - name: v1id
+        in: path
+        required: true
+        schema:
+          type: string
+      - name: id
+        in: path
+        required: true
+        schema:
+          type: string
+      responses:
+        '200':
+          description: Success (status as documented)
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/DeleteV1V1IdIdResponse'
+      x-evidence:
+        kind: documentation
+        collapsed_from: 2 example path(s) differing only at v1Id
+    get:
+      operationId: get_v1_v1id_id
+      tags:
+      - Api
+      summary: Retrieve Feed
+      x-source: https://rss.app/docs/api
+      parameters:
+      - name: v1id
+        in: path
+        required: true
+        schema:
+          type: string
+      - name: id
+        in: path
+        required: true
+        schema:
+          type: string
+      - name: sort
+        in: query
+        required: false
+        schema:
+          type: string
+        description: Sorts the articles in the feed (last_added, date)
+      responses:
+        '200':
+          description: Success (status as documented)
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GetV1V1IdIdResponse'
+      x-evidence:
+        kind: documentation
+        collapsed_from: 2 example path(s) differing only at v1Id
+components:
+  schemas:
+    PatchV1FeedRequest:
+      type: object
+      properties:
+        title:
+          type: string
+        description:
+          type: string
+        icon:
+          type: string
+    PatchV1FeedResponse:
+      type: object
+      properties:
+        id:
+          type: string
+        title:
+          type: string
+        source_url:
+          type: string
+        rss_feed_url:
+          type: string
+        description:
+          type: string
+        icon:
+          type: string
+        is_active:
+          type: boolean
+    GetV1V1IdResponse:
+      type: object
+      properties:
+        total:
+          type: number
+          description: Total number of bundles.
+        offset:
+          type: number
+          description: Offset used in the request.
+        limit:
+          type: number
+          description: Limit used in the request.
+        data:
+          type: array
+          description: Array of bundle objects.
+    PostV1V1IdRequest:
+      type: object
+      properties:
+        name:
+          type: string
+        feeds:
+          type: array
+      required:
+      - name
+      - feeds
+    PostV1V1IdResponse:
+      type: object
+      properties:
+        id:
+          type: string
+        name:
+          type: string
+        rss_feed_url:
+          type: string
+        description:
+          type: string
+        icon:
+          type: string
+        feeds:
+          type: array
+        items:
+          type: array
+    DeleteV1V1IdIdResponse:
+      type: object
+      properties:
+        id:
+          type: string
+        deleted:
+          type: boolean
+    GetV1V1IdIdResponse:
+      type: object
+      properties:
+        id:
+          type: string
+        title:
+          type: string
+        rss_feed_url:
+          type: string
+        source_url:
+          type: string
+        description:
+          type: string
+        icon:
+          type: string
+        is_active:
+          type: boolean
+        items:
+          type: array
+tags:
+- name: Api
+- name: Bundles
+- name: Feed

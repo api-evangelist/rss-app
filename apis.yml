@@ -27,6 +27,12 @@ modified: '2026-09-22'
 tags:
 - Company
 - RSS
+- No-Code
+- Automation
+- Content
+tags_raw:
+- Company
+- RSS
 - No-code
 - Automation
 - Content
@@ -86,16 +92,16 @@ common:
   url: https://rss.app/signup
 
 apis:
-- aid: rss-app:rss-app-api
-  name: RSS.app API
-  description: 'RSS.app API as documented publicly: 7 operations. Contract generated from the documentation by API Evangelist (2026-09-22); not
-    the provider''s own document.'
+- aid: rss-app:rss-app-bundles-api
+  name: RSS.app Bundles API
+  description: The Bundles API from RSS.app — 2 operation(s) for bundles.
   humanURL: https://rss.app/docs/api
   baseURL: https://api.rss.app
+  tags:
+  - Bundles
   properties:
   - type: OpenAPI
-    url: openapi/_ae-authored/rss-app-openapi-generated.yml
-    x-provenance: generated
+    url: openapi/rss-app-bundles-api-openapi.yml
   - type: JSONSchema
     url: json-schema/rss-app-get-v1-v1-id-response-schema.json
   - type: JSONSchema
@@ -108,7 +114,50 @@ apis:
     url: json-schema/rss-app-patch-v1-feed-request-schema.json
   - type: JSONSchema
     url: json-schema/rss-app-post-v1-v1-id-request-schema.json
-
+- aid: rss-app:rss-app-feed-api
+  name: RSS.app Feed API
+  description: The Feed API from RSS.app — 1 operation(s) for feed.
+  humanURL: https://rss.app/docs/api
+  baseURL: https://api.rss.app
+  tags:
+  - Feed
+  properties:
+  - type: OpenAPI
+    url: openapi/rss-app-feed-api-openapi.yml
+  - type: JSONSchema
+    url: json-schema/rss-app-get-v1-v1-id-response-schema.json
+  - type: JSONSchema
+    url: json-schema/rss-app-get-v1-v1-id-id-response-schema.json
+  - type: JSONSchema
+    url: json-schema/rss-app-patch-v1-feed-response-schema.json
+  - type: JSONSchema
+    url: json-schema/rss-app-post-v1-v1-id-response-schema.json
+  - type: JSONSchema
+    url: json-schema/rss-app-patch-v1-feed-request-schema.json
+  - type: JSONSchema
+    url: json-schema/rss-app-post-v1-v1-id-request-schema.json
+- aid: rss-app:rss-app-rss-app-api-api
+  name: RSS.app RSS.app API
+  description: The RSS.app API API from RSS.app — 2 operation(s) for rss.app api.
+  humanURL: https://rss.app/docs/api
+  baseURL: https://api.rss.app
+  tags:
+  - RSS.app API
+  properties:
+  - type: OpenAPI
+    url: openapi/rss-app-rss-app-api-api-openapi.yml
+  - type: JSONSchema
+    url: json-schema/rss-app-get-v1-v1-id-response-schema.json
+  - type: JSONSchema
+    url: json-schema/rss-app-get-v1-v1-id-id-response-schema.json
+  - type: JSONSchema
+    url: json-schema/rss-app-patch-v1-feed-response-schema.json
+  - type: JSONSchema
+    url: json-schema/rss-app-post-v1-v1-id-response-schema.json
+  - type: JSONSchema
+    url: json-schema/rss-app-patch-v1-feed-request-schema.json
+  - type: JSONSchema
+    url: json-schema/rss-app-post-v1-v1-id-request-schema.json
 x-coverage:
   state: unreadable
   reason: js-rendered-docs

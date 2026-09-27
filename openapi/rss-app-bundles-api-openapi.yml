@@ -1,0 +1,71 @@
+openapi: 3.2.0
+info:
+  title: RSS.app Bundles API
+  version: '2026-09-22'
+  description: 'GENERATED FROM DOCUMENTATION by API Evangelist on 2026-09-22: 7 operation(s) read from 8 public documentation page(s) (each operation names its page in x-source). This is not the provider''s published contract; RSS.app has published no machine-readable contract that the pipeline could find. Engine: local.'
+  x-evidence-tiers:
+    code-example: 0
+    documentation: 7
+    pages-with-code: 0
+    pages-read: 8
+  x-generated-from: documentation
+  x-provenance: generated
+  x-authored-by: API Evangelist
+  x-generated: '2026-09-22'
+  x-generator: generate-contract-from-docs.py
+  x-engine: local
+  x-sources:
+  - https://rss.app/docs/api
+  - https://rss.app/docs/api/webhooks
+  - https://rss.app/docs/api/authentication
+  - https://rss.app/docs/api/errors
+  - https://rss.app/docs/api/pagination
+  - https://rss.app/docs/api/feeds
+  - https://rss.app/docs/api/feeds/create-by-url
+  - https://rss.app/docs/api/feeds/create-by-keyword
+servers:
+- url: https://api.rss.app
+tags:
+- name: Bundles
+paths:
+  /v1/bundles/{bundleId}:
+    delete:
+      operationId: delete_v1_bundles_bundleId
+      tags:
+      - Bundles
+      summary: Delete Bundle
+      x-source: https://rss.app/docs/api
+      parameters:
+      - name: bundleId
+        in: path
+        required: true
+        schema:
+          type: string
+      responses:
+        '200':
+          description: Success (status as documented)
+      x-evidence:
+        kind: documentation
+  /v1/bundles/{bundleId}/feeds/{feedId}:
+    delete:
+      operationId: delete_v1_bundles_bundleId_feeds_feedId
+      tags:
+      - Bundles
+      summary: Delete Feed
+      x-source: https://rss.app/docs/api
+      parameters:
+      - name: bundleId
+        in: path
+        required: true
+        schema:
+          type: string
+      - name: feedId
+        in: path
+        required: true
+        schema:
+          type: string
+      responses:
+        '200':
+          description: Success (status as documented)
+      x-evidence:
+        kind: documentation

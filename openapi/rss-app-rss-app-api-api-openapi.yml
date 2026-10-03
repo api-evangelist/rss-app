@@ -181,6 +181,23 @@ components:
         data:
           type: array
           description: Array of bundle objects.
+    PostV1V1IdResponse:
+      type: object
+      properties:
+        id:
+          type: string
+        name:
+          type: string
+        rss_feed_url:
+          type: string
+        description:
+          type: string
+        icon:
+          type: string
+        feeds:
+          type: array
+        items:
+          type: array
     DeleteV1V1IdIdResponse:
       type: object
       properties:
@@ -205,23 +222,6 @@ components:
           type: string
         is_active:
           type: boolean
-        items:
-          type: array
-    PostV1V1IdResponse:
-      type: object
-      properties:
-        id:
-          type: string
-        name:
-          type: string
-        rss_feed_url:
-          type: string
-        description:
-          type: string
-        icon:
-          type: string
-        feeds:
-          type: array
         items:
           type: array
     PostV1V1IdRequest:

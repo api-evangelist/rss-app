@@ -166,21 +166,6 @@ paths:
         collapsed_from: 2 example path(s) differing only at v1Id
 components:
   schemas:
-    GetV1V1IdResponse:
-      type: object
-      properties:
-        total:
-          type: number
-          description: Total number of bundles.
-        offset:
-          type: number
-          description: Offset used in the request.
-        limit:
-          type: number
-          description: Limit used in the request.
-        data:
-          type: array
-          description: Array of bundle objects.
     PostV1V1IdResponse:
       type: object
       properties:
@@ -205,6 +190,31 @@ components:
           type: string
         deleted:
           type: boolean
+    GetV1V1IdResponse:
+      type: object
+      properties:
+        total:
+          type: number
+          description: Total number of bundles.
+        offset:
+          type: number
+          description: Offset used in the request.
+        limit:
+          type: number
+          description: Limit used in the request.
+        data:
+          type: array
+          description: Array of bundle objects.
+    PostV1V1IdRequest:
+      type: object
+      properties:
+        name:
+          type: string
+        feeds:
+          type: array
+      required:
+      - name
+      - feeds
     GetV1V1IdIdResponse:
       type: object
       properties:
@@ -224,13 +234,3 @@ components:
           type: boolean
         items:
           type: array
-    PostV1V1IdRequest:
-      type: object
-      properties:
-        name:
-          type: string
-        feeds:
-          type: array
-      required:
-      - name
-      - feeds

@@ -52,15 +52,6 @@ paths:
         kind: documentation
 components:
   schemas:
-    PatchV1FeedRequest:
-      type: object
-      properties:
-        title:
-          type: string
-        description:
-          type: string
-        icon:
-          type: string
     PatchV1FeedResponse:
       type: object
       properties:
@@ -78,3 +69,12 @@ components:
           type: string
         is_active:
           type: boolean
+    PatchV1FeedRequest:
+      type: object
+      properties:
+        title:
+          type: string
+        description:
+          type: string
+        icon:
+          type: string

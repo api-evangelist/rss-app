@@ -30,3 +30,34 @@ plans:
   description: Everything in Developer plus 500 feeds, 100 widgets, 100 alerts per platform, 100 email digests, 50 webhooks, 1000 posts per collection,
     200 keywords, team collaboration, API access, etc.
 docs: https://rss.app/pricing
+x-canonical:
+  generated: '2026-10-08'
+  vocabulary: all/0-working/economics/plans-canonical.yml
+  models:
+  - subscription
+  units: []
+  plans:
+  - name: Free
+    access: other
+    model: unstated
+    model_how: derived
+    units: []
+    periods: []
+  - name: Basic
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Developer
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Pro
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []

@@ -166,6 +166,25 @@ paths:
         collapsed_from: 2 example path(s) differing only at v1Id
 components:
   schemas:
+    GetV1V1IdIdResponse:
+      type: object
+      properties:
+        id:
+          type: string
+        title:
+          type: string
+        rss_feed_url:
+          type: string
+        source_url:
+          type: string
+        description:
+          type: string
+        icon:
+          type: string
+        is_active:
+          type: boolean
+        items:
+          type: array
     PostV1V1IdResponse:
       type: object
       properties:
@@ -183,6 +202,16 @@ components:
           type: array
         items:
           type: array
+    PostV1V1IdRequest:
+      type: object
+      properties:
+        name:
+          type: string
+        feeds:
+          type: array
+      required:
+      - name
+      - feeds
     DeleteV1V1IdIdResponse:
       type: object
       properties:
@@ -205,32 +234,3 @@ components:
         data:
           type: array
           description: Array of bundle objects.
-    PostV1V1IdRequest:
-      type: object
-      properties:
-        name:
-          type: string
-        feeds:
-          type: array
-      required:
-      - name
-      - feeds
-    GetV1V1IdIdResponse:
-      type: object
-      properties:
-        id:
-          type: string
-        title:
-          type: string
-        rss_feed_url:
-          type: string
-        source_url:
-          type: string
-        description:
-          type: string
-        icon:
-          type: string
-        is_active:
-          type: boolean
-        items:
-          type: array

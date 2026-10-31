@@ -64,5 +64,130 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-RSS.app is a company surfaced via the API Evangelist harvest backlog (source: news) and added to the network as a stub for full-pipeline profiling.
-- https://rss.app/
+RSS.app provides a no‑code platform that lets users generate RSS feeds from any website or social media source, create embeddable widgets, and automate content distribution via bots to Discord, Slack, Telegram, and email. It offers a suite of tools for monitoring brands, competitors, and news, with customizable widgets, news walls, and alerts, targeting marketers, developers, and businesses seeking automated content streams without writing code.
+
+**Areas:** Company · RSS · No-Code · Automation · Content
+
+## RSS.app on APIs.io
+
+Everything profiled for RSS.app is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/rss-app/](https://apis.io/providers/rss-app/)** — or go straight to one of the APIs or properties below.
+
+### APIs (3)
+
+- [RSS.app Bundles API](https://apis.io/apis/rss-app/rss-app-bundles-api/) — The Bundles API from RSS.app — 2 operation(s) for bundles.
+- [RSS.app Feed API](https://apis.io/apis/rss-app/rss-app-feed-api/) — The Feed API from RSS.app — 1 operation(s) for feed.
+- [RSS.app RSS.app API](https://apis.io/apis/rss-app/rss-app-rss-app-api-api/) — The RSS.app API API from RSS.app — 2 operation(s) for rss.app api.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [rss-app-mcp.yml](https://apis.io/servers/rss-app/rss-app-mcp-yml/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [GetV1V1IdIdResponse](https://apis.io/schemas/rss-app/rss-app-get-v1-v1-id-id-response/)
+- [GetV1V1IdResponse](https://apis.io/schemas/rss-app/rss-app-get-v1-v1-id-response/)
+- [PatchV1FeedRequest](https://apis.io/schemas/rss-app/rss-app-patch-v1-feed-request/)
+- [PatchV1FeedResponse](https://apis.io/schemas/rss-app/rss-app-patch-v1-feed-response/)
+- [PostV1V1IdRequest](https://apis.io/schemas/rss-app/rss-app-post-v1-v1-id-request/)
+- [PostV1V1IdResponse](https://apis.io/schemas/rss-app/rss-app-post-v1-v1-id-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Rss App Context](https://apis.io/jsonld/rss-app/rss-app-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [RSS.app API Rules](https://apis.io/rules/rss-app/rss-app-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Rss App Domain Security](https://apis.io/security/rss-app/rss-app-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Rss App Plans Pricing](https://apis.io/plans/rss-app/rss-app-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://rss.app/)
+- [Documentation](https://help.rss.app/)
+- [Getting started](https://help.rss.app/en/articles/11124064-how-to-use-rss-app-your-quick-start-guide)
+- [Pricing](https://rss.app/pricing)
+- [Sign up](https://rss.app/signup)
+- [Blog](https://rss.app/blog)
+- [Security](https://rss.app/discover/security)
+- [Terms of service](https://rss.app/terms)
+- [Privacy policy](https://rss.app/privacy)
+
+## API Evangelist rating
+
+**Kin Score 39.9** — developing · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 80.4 |
+| Contract quality | 24.5 |
+| Contract governance | 22.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 33.3 |
+| Access clarity | 76.3 |
+
+**Agent readiness 16.0** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | partial |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/rss-app/](https://apis.io/providers/rss-app/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for RSS.app: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/rss-app/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
